@@ -34,6 +34,45 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://skillicons.dev/icons?i=git"> | <img src="https://skillicons.dev/icons?i=github"> | <img src="https://skillicons.dev/icons?i=linux"> | <img src="https://skillicons.dev/icons?i=bash"> | <img src="https://skillicons.dev/icons?i=docker"> | <img src="https://skillicons.dev/icons?i=nginx"> | <img src="https://skillicons.dev/icons?i=vim"> | <img src="https://skillicons.dev/icons?i=nodejs"> | <img src="https://skillicons.dev/icons?i=figma"> |
 
+### 42 Projects
+<p align="center">
+	<a href="https://github.com/fmanzanare/libft">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/libfte.png">
+	</a>
+	<a href="https://github.com/fmanzanare/get_next_line">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/get_next_linen.png">
+	</a>
+	<a href="https://github.com/fmanzanare/ft_printf">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/ft_printfn.png">
+	</a>
+	<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/born2berootn.png">
+	<a href="https://github.com/fmanzanare/push_swap">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/push_swape.png">
+	</a>
+	<a href="https://github.com/fmanzanare/pipex">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/pipexn.png">
+	</a>
+	<a href="https://github.com/fmanzanare/so_long">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/so_longn.png">
+	</a>
+	<a href="https://github.com/victorgorka/minishell">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/minishelln.png">
+	</a>
+	<a href="https://github.com/fmanzanare/philosophers">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/philosophersn.png">
+	</a>
+	<a href="https://github.com/victorgorka/cub3D">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/cub3dn.png">
+	</a>
+	<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/netpracticen.png">
+	<a href="#">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/cppn.png">
+	</a>
+	<a href="https://github.com/fmanzanare/Inception">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/inceptionn.png">
+	</a>
+</p>
+
 ## 📫 Contact me ...
 <a href="https://www.linkedin.com/in/fernandomanzanaresmontes/"><img src="https://img.shields.io/badge/Fernando Manzanares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: fernandomanzanaresdev@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
