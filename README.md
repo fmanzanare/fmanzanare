@@ -34,10 +34,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://skillicons.dev/icons?i=git"> | <img src="https://skillicons.dev/icons?i=github"> | <img src="https://skillicons.dev/icons?i=linux"> | <img src="https://skillicons.dev/icons?i=bash"> | <img src="https://skillicons.dev/icons?i=docker"> | <img src="https://skillicons.dev/icons?i=nginx"> | <img src="https://skillicons.dev/icons?i=vim"> | <img src="https://skillicons.dev/icons?i=nodejs"> | <img src="https://skillicons.dev/icons?i=figma"> |
 
-## My top languages on GitHub ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmanzanare)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Contact me ...
 <a href="https://www.linkedin.com/in/fernandomanzanaresmontes/"><img src="https://img.shields.io/badge/Fernando Manzanares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: fernandomanzanaresdev@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
