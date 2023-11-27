@@ -24,7 +24,7 @@
 | <img src="https://skillicons.dev/icons?i=androidstudio"> | <img src="https://skillicons.dev/icons?i=kotlin"> | <img src="https://skillicons.dev/icons?i=sqlite"> | <img src="https://skillicons.dev/icons?i=swift"> |
 
 
-### Low-Level Languages
+### Other Languages
 | C | C++ |
 |:-:|:-:|
 | <img src="https://skillicons.dev/icons?i=c"> | <img src="https://skillicons.dev/icons?i=cpp"> |
