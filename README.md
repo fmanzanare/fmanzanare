@@ -55,13 +55,13 @@
 	<a href="https://github.com/fmanzanare/so_long">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/so_longe.png">
 	</a>
-	<a href="https://github.com/victorgorka/minishell">
+	<a href="https://github.com/fmanzanare/minishell">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/minishelle.png">
 	</a>
 	<a href="https://github.com/fmanzanare/philosophers">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/philosopherse.png">
 	</a>
-	<a href="https://github.com/victorgorka/cub3D">
+	<a href="https://github.com/fmanzanare/cub3D">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/cub3de.png">
 	</a>
 	<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/netpracticee.png">
