@@ -70,6 +70,9 @@
 	<a href="https://github.com/fmanzanare/Inception">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/inceptione.png">
 	</a>
+	<a href="https://github.com/fmanzanare/Webserv">
+		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/webserve.png">
+	</a>
 </p>
 
 <p align="center">
