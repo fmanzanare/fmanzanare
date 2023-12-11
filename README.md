@@ -34,7 +34,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://skillicons.dev/icons?i=git"> | <img src="https://skillicons.dev/icons?i=github"> | <img src="https://skillicons.dev/icons?i=linux"> | <img src="https://skillicons.dev/icons?i=bash"> | <img src="https://skillicons.dev/icons?i=docker"> | <img src="https://skillicons.dev/icons?i=nginx"> | <img src="https://skillicons.dev/icons?i=vim"> | <img src="https://skillicons.dev/icons?i=nodejs"> | <img src="https://skillicons.dev/icons?i=figma"> |
 
-### 42 Projects
+## 42 Projects
 <p align="center">
 	<a href="https://github.com/fmanzanare/libft">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/libfte.png">
@@ -64,12 +64,17 @@
 	<a href="https://github.com/fmanzanare/cub3D">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/cub3de.png">
 	</a>
-	<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/netpracticee.png">
 	<a href="#">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/cppe.png">
 	</a>
 	<a href="https://github.com/fmanzanare/Inception">
 		<img src="https://github.com/fmanzanare/42-project-badges/raw/main/badges/inceptione.png">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/oakoudad/badge42">
+		<img src="https://badge.mediaplus.ma/darkblue/fmanzana?1337Badge=off&UM6P=off">
 	</a>
 </p>
 
