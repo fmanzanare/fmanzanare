@@ -3,7 +3,6 @@
 ## 💻 I'm currently working on...
 - Almost finishing the <b>42 common core</b> at <b><a href="https://www.42malaga.com/">42Málaga</a></b> - intra: <b>fmanzana</b>
 - <b>Multiplatform App Development</b> Vocational Training at <b><a href="https://escuelaestech.es/">Escuela ESTECH</b></a> in Linares (Jaén)
-- Building my own portfolio site in a homemade server.
 
 ## 👨‍💻 Languages and technologies I work with...
 ### Web Technologies
